@@ -1,5 +1,4 @@
 // =========================================================================
-// OFICIAL DE ESCLUSA — REVISIÓN #5 (GUNMETAL, AVATARES VIVOS Y TYPEWRITER)
 // NASA SPACE APPS // ENTRENADOR DE MISIÓN ARTEMIS (VANILLA JS ES6+)
 // =========================================================================
 
